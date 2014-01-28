@@ -14,5 +14,5 @@ Feature: Listing all articles
       |First article  |This is the first article  |
       |Second article |This is the second article |
     When I visit the list articles page
-    Then I should see the message "Firs article"
+    Then I should see the message "First article"
      And I should see the message "Second article" 
